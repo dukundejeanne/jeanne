@@ -1,16 +1,8 @@
-h1 {
-    color: blue;
-  }
-
-  h1 {
-    color: blue;
+h1{
+  color: #0000ff;
     text-align: center;
-  }
-  h1 {
-    color: blue;
-    text-align: center;
-  }
-  h2 {
+}
+h2 {
     color: green;
     font-style: italic;
     text-align: center;
@@ -21,7 +13,3 @@ h1 {
   ul {
     line-height: 40px;
   }
-  h1 {
-    color: #00f;
-  }
-  
